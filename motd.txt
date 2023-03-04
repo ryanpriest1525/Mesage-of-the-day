@@ -1,1 +1,3 @@
 welcome!!!
+This is a multiplayer Gorilla Tag fan game.
+There are player room limits so only 20 people can be in one room.
